@@ -5,7 +5,7 @@ Atmospheric Scattering Model
 $I(x) = J(x)t(x)+A(1-t(x))$  
 where $I(x)$ is haze image, $J(x)$ is haze-free image, and $A(x)$ is global atmosphere light。Our goal is to estimate $J(x)$. The result shows that the method is valid. 
 
-Source image from [4]
+Source image from [4]  
 ![12](https://user-images.githubusercontent.com/108604868/200993404-d6943fd1-2d99-450c-b091-b4d74d094056.jpg)
 
 ![image](https://user-images.githubusercontent.com/108604868/200993387-aae4099a-8fb6-4622-9860-b200a679d380.png)
@@ -13,7 +13,7 @@ Source image from [4]
 
 
 # Reference
-[1] https://ww2.mathworks.cn/help/images/low-light-image-enhancement.html    
+[1] [Low-Light Image Enhancement (Matlab)](https://ww2.mathworks.cn/help/images/low-light-image-enhancement.html)    
 [2] Kaiming He, Jian Sun, and Xiaoou Tang, Single Image Haze Removal Using Dark Channel Prior, 2009.  
-[3] https://github.com/He-Zhang/image_dehaze  
-[4] https://paperswithcode.com/dataset/dicm
+[3] [He-Zhang/image_dehaze](https://github.com/He-Zhang/image_dehaze)  
+[4] [DICM](https://paperswithcode.com/dataset/dicm)
